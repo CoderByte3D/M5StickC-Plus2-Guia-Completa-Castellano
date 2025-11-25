@@ -6,37 +6,36 @@
 
 ---
 
+<table>
+  <tr>
+    <td>
+      <img 
+        src="https://github.com/user-attachments/assets/97862fe6-a9d0-4725-b9fe-d3d0144f1149"
+        width="250"
+        style="border-radius: 20px;"
+      />
+    </td>
+    <td style="padding-left: 20px;">
+      <h3>📌 M5StickC Plus2</h3>
+      Pequeño, potente y perfecto para proyectos IoT.  
+      Ideal para sensores, displays, automatización y todo tipo de inventos tecnológicos.
+    </td>
+  </tr>
+</table>
+
+
+
 ##✨ **Software Bruce para M5StickC Plus2** ✨
 
 > 🔸Después de estar probando el software de **Bruce** en sus últimas versiones para el **M5StickC Plus2**, puedo decir que es un **divertido e interactivo software bien refinado y bastante completo**.
 (IMAGEN DE INICIO DE BRUCE)
 
-<img 
-  src="https://github.com/user-attachments/assets/97862fe6-a9d0-4725-b9fe-d3d0144f1149"
-  alt="M5StickC Plus2"
-  width="250"
-  style="
-    border-radius: 25px;
-    box-shadow: 0px 6px 20px rgba(0, 0, 0, 0.35);
-    padding: 5px;
-    background: #ffffff10;
-    backdrop-filter: blur(3px);
-  "
-/>
-
-<div style="
-  width: fit-content;
-  padding: 15px;
-  border-radius: 25px;
-  background: white;
-  box-shadow: 0 8px 20px rgba(0,0,0,0.25);
-">
   <img 
     src="https://github.com/user-attachments/assets/97862fe6-a9d0-4725-b9fe-d3d0144f1149"
     width="250"
     style="border-radius: 20px;"
   />
-</div>
+
 
 Aún mas si le añades los respectivos módulos como la antena **NRF24, IR, RFID**, los cuales iré comentando a continuación.
 
