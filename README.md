@@ -33,7 +33,7 @@
     <td>
       <img 
         src="https://github.com/user-attachments/assets/97862fe6-a9d0-4725-b9fe-d3d0144f1149"
-        width="500"
+        width="440"
         style="border-radius: 20px;"
       />
     </td>
@@ -48,7 +48,7 @@
     <td>
       <img 
         src="https://github.com/user-attachments/assets/e9c1bbb9-3954-4955-ba58-45c39d393342"
-        width="500"
+        width="440"
         style="border-radius: 20px;"
       />
     </td>
@@ -63,7 +63,7 @@
     <td>
       <img 
         src="https://github.com/user-attachments/assets/0ed07dd0-3e60-4009-a55c-9aa83ca68854"
-        width="500"
+        width="440"
         style="border-radius: 20px;"
       />
     </td>
