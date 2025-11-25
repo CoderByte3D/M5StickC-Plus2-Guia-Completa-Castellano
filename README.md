@@ -11,8 +11,18 @@
 > 🔸Después de estar probando el software de **Bruce** en sus últimas versiones para el **M5StickC Plus2**, puedo decir que es un **divertido e interactivo software bien refinado y bastante completo**.
 (IMAGEN DE INICIO DE BRUCE)
 
- <img width="250" height="250" alt="M5StickC Plus2" src="https://github.com/user-attachments/assets/97862fe6-a9d0-4725-b9fe-d3d0144f1149" />
-
+<img 
+  src="https://github.com/user-attachments/assets/97862fe6-a9d0-4725-b9fe-d3d0144f1149"
+  alt="M5StickC Plus2"
+  width="250"
+  style="
+    border-radius: 25px;
+    box-shadow: 0px 6px 20px rgba(0, 0, 0, 0.35);
+    padding: 5px;
+    background: #ffffff10;
+    backdrop-filter: blur(3px);
+  "
+/>
 
 <img 
   src="https://github.com/user-attachments/assets/97862fe6-a9d0-4725-b9fe-d3d0144f1149"
