@@ -11,11 +11,11 @@
 <table>
 
   <tr>
-    <td colspan="2" style="text-align: center; padding-bottom: 20px;">
+    <td colspan="2" style="text-align: center; padding-bottom: 15px;">
             <img 
         src="https://github.com/user-attachments/assets/0ed07dd0-3e60-4009-a55c-9aa83ca68854"
         width="500"
-        style="border-radius: 20px;"
+        style="border-radius: 15px;"
       />
       <h2> 📌 Título Principal Encima de la Tabla </h2>
     </td>
