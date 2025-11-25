@@ -5,16 +5,11 @@
 <img width="250" height="250" alt="M5StickC Plus2" src="https://github.com/user-attachments/assets/e3f0ef93-b7a6-4e85-9bb5-6d66347c749e" />
 
 ---
-![WhatsApp Image 2025-11-25 at 12 52 34(1)](https://github.com/user-attachments/assets/e9c1bbb9-3954-4955-ba58-45c39d393342)
-
 
 <!-- Fotos con el texto de las diferentes partes fisicas del M5Stick -->
 
 <table>
-
   <!-- FILA 1 -->
-<img width="800" height="800" alt="imagen" src="https://github.com/user-attachments/assets/0ed07dd0-3e60-4009-a55c-9aa83ca68854" />
-  
   <tr>
     <td>
       <img 
