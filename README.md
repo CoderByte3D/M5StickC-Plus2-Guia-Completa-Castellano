@@ -26,8 +26,8 @@
   <td colspan="2" style="text-align: center; padding: 0; margin: 0;">
     <div style="display: inline-block; margin: 0; padding: 0;">
       <img 
-        src="URL_DE_LA_IMAGEN_DEL_HEADER"
-        width="700"
+        src="https://github.com/user-attachments/assets/0ed07dd0-3e60-4009-a55c-9aa83ca68854"
+        width="500"
         style="border-radius: 15px; margin: 0; padding: 0; display: block;"
       />
       <div style="margin: 0; padding: 0; line-height: 1;">
