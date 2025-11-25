@@ -28,7 +28,7 @@
   src="https://github.com/user-attachments/assets/97862fe6-a9d0-4725-b9fe-d3d0144f1149"
   alt="M5StickC Plus2"
   width="250"
-  style="border-radius: 20px; box-shadow: 0 4px 15px rgba(0,0,0,0.3);"
+  style="border-radius: 40px; box-shadow: 0 6px 20px rgba(0,0,0,0.35);"
 />
 
 Aún mas si le añades los respectivos módulos como la antena **NRF24, IR, RFID**, los cuales iré comentando a continuación.
