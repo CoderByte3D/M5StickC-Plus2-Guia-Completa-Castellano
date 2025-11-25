@@ -43,14 +43,17 @@
 
   <!-- FILA 2 -->
   <tr>
-    <td style="padding-left: 20px;">
-            <img 
+    <td>
+      <img 
         src="https://github.com/user-attachments/assets/e9c1bbb9-3954-4955-ba58-45c39d393342"
         width="440"
         style="border-radius: 20px;"
       />
-      <h3>📌 Título de la tercera imagen</h3>
-      Aquí va el texto que quieras escribir sobre esta otra imagen.
+    </td>
+    <td style="padding-left: 20px;">
+      <h3>🎫Trasera del M5Stick🎫</h3>
+      Pequeño, potente y perfecto para proyectos IoT.  
+      Ideal para sensores, displays, automatización y todo tipo de inventos.
     </td>
   </tr>
   
