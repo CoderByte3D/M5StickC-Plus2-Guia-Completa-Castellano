@@ -11,7 +11,10 @@
 > 🔸Después de estar probando el software de **Bruce** en sus últimas versiones para el **M5StickC Plus2**, puedo decir que es un **divertido e interactivo software bien refinado y bastante completo**.
 (IMAGEN DE INICIO DE BRUCE)
 
-![WhatsApp Image 2025-11-25 at 12 52 34](https://github.com/user-attachments/assets/d5cc06cd-26ff-4d9b-8e5a-7365a1808d86)
+ <img width="250" height="250" alt="M5StickC Plus2" src="https://github.com/user-attachments/assets/97862fe6-a9d0-4725-b9fe-d3d0144f1149" />
+
+
+
 
 Aún mas si le añades los respectivos módulos como la antena **NRF24, IR, RFID**, los cuales iré comentando a continuación.
 
