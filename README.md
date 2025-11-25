@@ -1,6 +1,6 @@
 <div align="center">
 
-# ⚙️ M5StickC-Plus2 ⚙️
+
 
 <img width="250" height="250" alt="M5StickC Plus2" src="https://github.com/user-attachments/assets/e3f0ef93-b7a6-4e85-9bb5-6d66347c749e" />
 
@@ -13,7 +13,8 @@
 <!-- Cabezera de la tabla -->
 <tr>
   <td colspan="2" style="text-align: center; padding: 0; margin: 0;">
-    <h2 style="margin: 5px 0 0 0;">  ⚙️Hardware del M5StickC Plus2⚙️ </h2>
+    <h2 style="margin: 5px 0 0 0;"> # ⚙️ M5StickC-Plus2 ⚙️</h2>
+    <h1 style="margin: 5px 0 0 0;"> # Este dispositivo compacto integra una gran cantidad de recursos de hardware en su pequeño formato, incluyendo WIFI, Bluetooth, IR, RFID, NRF25, botones, zumbador.</h1>
     <div style="display: inline-block; margin: 0; padding: 0;">
       <img 
         src="https://github.com/user-attachments/assets/0ed07dd0-3e60-4009-a55c-9aa83ca68854"
