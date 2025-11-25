@@ -15,7 +15,7 @@
       <img 
         src="https://github.com/user-attachments/assets/0ed07dd0-3e60-4009-a55c-9aa83ca68854"
         width="500"
-        style="border-radius: 15px; margin: 0; padding: 0; display: block;"
+        style="border-radius: 10px; margin: 0; padding: 0; display: block;"
       />
       <div style="margin: 0; padding: 0; line-height: 1;">
          <h2 style="margin: 5px 0 0 0;">  🡻🢃Hardware del M5StickC Plus2🢃🡻</h2>
