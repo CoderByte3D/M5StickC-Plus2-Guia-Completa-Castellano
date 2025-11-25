@@ -6,22 +6,11 @@
 
 ---
 
-<!-- Fotos con el texto de las diferentes partes fisicas del M5Stick -->
+<!-- Tabla con Fotos con el texto de las diferentes partes fisicas del M5Stick -->
 
 <table>
-
-  <tr>
-    <td colspan="2" style="text-align: center; padding-bottom: 10px;">
-            <img 
-        src="https://github.com/user-attachments/assets/0ed07dd0-3e60-4009-a55c-9aa83ca68854"
-        width="500"
-        style="border-radius: 15px;"
-      />
-      <h2 style="margin: 5px 0 0 0;"> 📌 Título Principal Encima de la Tabla </h2>
-    </td>
-  </tr>
-
-
+  
+<!-- Cabezera de la tabla -->
 <tr>
   <td colspan="2" style="text-align: center; padding: 0; margin: 0;">
     <div style="display: inline-block; margin: 0; padding: 0;">
@@ -31,7 +20,7 @@
         style="border-radius: 15px; margin: 0; padding: 0; display: block;"
       />
       <div style="margin: 0; padding: 0; line-height: 1;">
-         <h2 style="margin: 5px 0 0 0;"> 📌 Título Principal Encima de la Tabla </h2>
+         <h2 style="margin: 5px 0 0 0;">  ⚙️Hardware del M5StickC Plus2⚙️ </h2>
       </div>
     </div>
 
@@ -49,9 +38,8 @@
       />
     </td>
     <td style="padding-left: 20px;">
-      <h3>📌 Título de la segunda imagen</h3>
-      Texto descriptivo que quieras añadir sobre esta imagen.  
-      Explica lo que muestra, las características, etc.
+      <h3>🖲️Frontal del M5Stick🖲️</h3>
+      En su frontal, cuenta con el botón M5, botón para simplemente moverte por el sistema, su función es (Aceptar, Siguiente)
     </td>
   </tr>
 
@@ -83,7 +71,6 @@
       <h3>📌 M5StickC Plus2</h3>
       Pequeño, potente y perfecto para proyectos IoT.  
       Ideal para sensores, displays, automatización y todo tipo de inventos.
-      En su frontal, cuenta con el botón M5, botón para simplemente moverte por el sistema, su función es (Aceptar, Siguiente)
     </td>
   </tr>
 
