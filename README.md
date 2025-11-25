@@ -20,6 +20,23 @@
       <h2 style="margin: 5px 0 0 0;"> 📌 Título Principal Encima de la Tabla </h2>
     </td>
   </tr>
+
+
+  <tr>
+  <td colspan="2" style="text-align: center; padding: 0;">
+    <div style="display: inline-block; margin: 0; padding: 0;">
+      <img 
+        src="URL_DE_LA_IMAGEN_DEL_HEADER"
+        width="150"
+        style="border-radius: 12px; margin: 0; padding: 0;"
+      />
+      <div style="margin: 0; padding: 0; line-height: 1;">
+        <strong style="font-size: 16px; margin: 0; padding: 0;">📌 Título Principal</strong>
+      </div>
+    </div>
+
+  </td>
+</tr>
   
 
   <!-- FILA 1 -->
