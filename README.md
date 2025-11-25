@@ -5,7 +5,7 @@
 <img width="250" height="250" alt="M5StickC Plus2" src="https://github.com/user-attachments/assets/e3f0ef93-b7a6-4e85-9bb5-6d66347c749e" />
 
 ---
-
+<!-- Fotos con el texto de las diferentes partes fisicas del M5Stick -->
 
 <table>
   <tr>
@@ -25,48 +25,60 @@
 </table>
 
 
-
-<!-- Foto del M5StickC Plus2 -->
 <table>
+
+  <!-- FILA 1 -->
   <tr>
     <td>
       <img 
-        src="ENLACE_DE_TU_FOTO_1"
+        src="https://github.com/user-attachments/assets/97862fe6-a9d0-4725-b9fe-d3d0144f1149"
         width="250"
         style="border-radius: 20px;"
       />
     </td>
-    <td>
-      <h3>Título o descripción de la foto</h3>
-      <p>
-        Escribe aquí tu texto explicando la imagen, las características,
-        información técnica o lo que quieras.
-      </p>
+    <td style="padding-left: 20px;">
+      <h3>📌 M5StickC Plus2</h3>
+      Pequeño, potente y perfecto para proyectos IoT.  
+      Ideal para sensores, displays, automatización y todo tipo de inventos.
     </td>
   </tr>
-</table>
 
-<!-- Aquí empieza la siguiente foto -->
-<table>
+  <!-- FILA 2 -->
   <tr>
     <td>
       <img 
-        src="ENLACE_DE_TU_FOTO_2"
+        src="AQUI_PONES_LA_FOTO_2"
         width="250"
         style="border-radius: 20px;"
       />
     </td>
-    <td>
-      <h3>Título o descripción de la segunda foto</h3>
-      <p>
-        Aquí escribes lo que quieras sobre la segunda imagen.
-      </p>
+    <td style="padding-left: 20px;">
+      <h3>📌 Título de la segunda imagen</h3>
+      Texto descriptivo que quieras añadir sobre esta imagen.  
+      Explica lo que muestra, las características, etc.
     </td>
   </tr>
+
+  <!-- FILA 3 -->
+  <tr>
+    <td>
+      <img 
+        src="AQUI_PONES_LA_FOTO_3"
+        width="250"
+        style="border-radius: 20px;"
+      />
+    </td>
+    <td style="padding-left: 20px;">
+      <h3>📌 Título de la tercera imagen</h3>
+      Aquí va el texto que quieras escribir sobre esta otra imagen.
+    </td>
+  </tr>
+
 </table>
 
 
 
+<!-- SOFTWARE BRUCE ¿¿DEJAR PARA OTRO REPOSITORIO?? -->
 
 ##✨ **Software Bruce para M5StickC Plus2** ✨
 
