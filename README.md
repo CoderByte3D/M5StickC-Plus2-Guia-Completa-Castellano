@@ -18,7 +18,7 @@
         style="border-radius: 15px; margin: 0; padding: 0; display: block;"
       />
       <div style="margin: 0; padding: 0; line-height: 1;">
-         <h2 style="margin: 5px 0 0 0;">  ⚙️Hardware del M5StickC Plus2⚙️ </h2>
+         <h2 style="margin: 5px 0 0 0;">  🡻🢃Hardware del M5StickC Plus2🢃🡻</h2>
       </div>
     </div>
 
