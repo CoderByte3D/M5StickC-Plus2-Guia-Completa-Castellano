@@ -37,7 +37,7 @@
     </td>
     <td style="padding-left: 20px;">
       <h3>🖲️Frontal del M5Stick🖲️</h3>
-      En su frontal, cuenta con la pantalla LCD de 1.14 pulgadas donde correrá el entorno visual del firmware que instalemos, debajo,  el botón M5, botón para simplemente moverte por el sistema, su función es (Aceptar, Siguiente).
+      En su frontal, cuenta con la pantalla LCD de 1.14 pulgadas donde correrá el entorno visual del firmware que instalemos, debajo,  el botón M5 (BtnA), botón para simplemente moverte por el sistema, su función es (Aceptar, Siguiente).
     </td>
   </tr>
 
@@ -51,9 +51,8 @@
       />
     </td>
     <td style="padding-left: 20px;">
-      <h3>🎫Trasera del M5Stick🎫</h3>
-      Pequeño, potente y perfecto para proyectos IoT.  
-      Ideal para sensores, displays, automatización y todo tipo de inventos.
+      <h3>🎫Dorsal del M5Stick🎫</h3>
+      En la parte trasera, cuenta con la etiqueta que nos indica varios de los módulos que integra, aparte de un imán para fijar el M5Stick a cualquier superficie metalica, a parte, la rejilla del zumbador (altavoz de pitidos) 
     </td>
   </tr>
   
