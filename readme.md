@@ -116,7 +116,7 @@
     <td style="padding-left: 20px;">
       <h3>⤵Interior del M5StickC⤵</h3>
      Aquí dentro es donde está toda la magia, donde están todos los modulos:
-<p>- 📡 Controlador: ESP32 240 MHz de doble núcleo, 600 DMIPS, 520 KB de SRAM, Wi-Fi </p>
+<p><h2>- 📡 Controlador: ESP32 240 MHz de doble núcleo, 600 DMIPS, 520 KB de SRAM, Wi-Fi </h2></p>
 <p>- 📶 IMU MPU6886 de 6 ejes integrado </p>
 <p>- 🎮 Transmisor de infrarrojos integrado </p>
 <p>- 🎤 Micrófono SPM1423 integrado y Zumbador pasivo integrado </p>
