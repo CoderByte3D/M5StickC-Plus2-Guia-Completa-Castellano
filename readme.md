@@ -194,23 +194,6 @@ Dejo el link de un tutorial que hize en YouTube:
   </a>
 </p>
 
-<p align="center">
-  <a href="https://www.youtube.com/watch?v=TU_ID_DE_VIDEO" target="_blank">
-    <img
-      src="https://img.shields.io/badge/Watch-Video-red?style=for-the-badge&logo=youtube"
-      height="60"
-    >
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://www.youtube.com/watch?v=TU_ID_DE_VIDEO" target="_blank">
-    <img
-      src="https://img.shields.io/badge/▶️%20YouTube-Watch%20Video-red?style=for-the-badge&logo=youtube"
-      height="60"
-    >
-  </a>
-</p>
 <!-- MODULOS EXTRAS ¿¿DEJAR PARA OTRO REPOSITORIO?? -->
 
 ## 🔌 Módulos que elevan su potencial
