@@ -136,29 +136,12 @@ Para instalarle otros Firmwares de la comunidad a nuestro dispositivo M5StickC P
 <!-- BOTÓN DE DESCARGA QUE LLEVA A LA URL DEL M5BURNER -->
 <a href="https://docs.m5stack.com/en/uiflow/m5burner/intro"> <img src="https://img.shields.io/badge/Download-Now-green?style=for-the-badge"> </a>
 
-<p align="center">
-  <a href="https://docs.m5stack.com/en/uiflow/m5burner/intro" target="_blank">
-    <img
-      src="https://img.shields.io/badge/View-Documentation-blue?style=for-the-badge"
-      height="60"
-    >
-  </a>
-</p>
 
 <p align="center">
   <a href="https://docs.m5stack.com/en/uiflow/m5burner/intro" target="_blank">
     <img
       src="https://img.shields.io/badge/🔗%20Go%20to-Documentation-0A7AFF?style=for-the-badge"
       height="60"
-    >
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://docs.m5stack.com/en/uiflow/m5burner/intro" target="_blank">
-    <img
-      src="https://img.shields.io/badge/Documentation-Open-informational?style=for-the-badge"
-      height="55"
     >
   </a>
 </p>
