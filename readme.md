@@ -132,9 +132,20 @@ Nuestra pequeña herramienta viene ya con un firmware pre-instalado de fábrica,
 ## 👨‍💻 SOFTWARE M5BURNER PARA FLASHEAR LOS DISPOSITIVOS M5STICKC 👨‍💻
 
 Para instalarle otros Firmwares de la comunidad a nuestro dispositivo M5StickC Plus 2 necesitamos el programa M5Burner, que la misma empresa M5 nos lo facilita en su pagina web:
-https://docs.m5stack.com/en/uiflow/m5burner/intro
 
+<!-- BOTÓN DE DESCARGA QUE LLEVA A LA URL DEL M5BURNER -->
 <a href="https://docs.m5stack.com/en/uiflow/m5burner/intro"> <img src="https://img.shields.io/badge/Download-Now-green?style=for-the-badge"> </a>
+
+
+<p align="center">
+  <a href="https://docs.m5stack.com/en/uiflow/m5burner/intro" target="_blank">
+    <img 
+      src="https://img.shields.io/badge/Download-Now-green?style=for-the-badge"
+      height="60"
+    >
+  </a>
+</p>
+
 - 📡 **NRF24** (comunicación inalámbrica)  
 
 
