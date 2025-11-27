@@ -182,7 +182,8 @@ Para instalarle otros Firmwares de la comunidad a nuestro dispositivo M5StickC P
 
 
 
-- 📡 **NRF24** (comunicación inalámbrica)  
+- 📡 **Dentro de M5BURNER nos facilitarán tanto firmwares oficiales como firmwares de la comunidad (Los de la comunidad son los más efectivos)**
+Dejo el link de un tutorial que hize en YouTube:
 
 
 <!-- MODULOS EXTRAS ¿¿DEJAR PARA OTRO REPOSITORIO?? -->
