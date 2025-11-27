@@ -109,10 +109,18 @@
 <!-- SOFTWARE BASE DE M5STICK -->
 
 ## 🔌 Firmware que viene de serie en el M5StickC Plus 2 🔌
-
-- 📡 **Giroscopio** (comunicación inalámbrica)  
-- 📶 **IR** (control y lectura infrarroja)  
-- 🟦 **RFID** (lectura de tarjetas)  
+Nuestra pequeña herramienta viene ya con un firmware pre-instalado de fábrica, el cual es un firmware demo (no pensado como firmware final) se instala para la demostración y para que el aparato tenga algo instalado, que luego le cambiaremos (más adelante en este mismo repositorio lo mencionaré).
+Éste firmware tiene opciones básicas, como:
+- 🧭 **Giroscopio** (Comprueba la calibración del M5.)
+  
+- 🌈 **Color** (Demostración y calibración de la paleta de colores que utiliza el sistema.)
+   
+- 🌐 **Wifi Scan** (Un simple sniffer de wifi que escanea los APs e información al rededor.)
+  
+- 🕓 **Clock** (Simple reloj digital.)
+  
+- 🕓 **IR Send** (Modulo Infrarojos que manda pulsos en el canal que elijas.)
+  
 
 <!-- MODULOS EXTRAS ¿¿DEJAR PARA OTRO REPOSITORIO?? -->
 
