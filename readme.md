@@ -111,8 +111,20 @@
       />
     </td>
     <td style="padding-left: 20px;">
-      <h3>👉Interior del M5StickC👉</h3>
-      Incluye el botón (BtnB) el cual es utilizado para movernos por el sistema.
+      <h3>⤵Interior del M5StickC⤵</h3>
+     Aquí dentro es donde está toda la magia, donde están todos los modulos:
+- 📡 **Controlador: ESP32 240 MHz de doble núcleo, 600 DMIPS, 520 KB de SRAM, Wi-Fi** 
+- 📶 **IMU MPU6886 de 6 ejes integrado** 
+- 🟦 **Transmisor de infrarrojos integrado** 
+- 🟦 **Micrófono SPM1423 integrado y Zumbador pasivo integrado** 
+- 🟦 **Reloj de tiempo real BM8563 integrado** 
+- 🟦 **Pulsadores, LEDs y diodos integrados** 
+- 🟦 **Pantalla LCD 1,14 pulgadas, 135 * 240 colorido TFT LCD, ST7789v2 Integrada** 
+- 🟦 **Batería Lipo integrada 200mAh a 3,7 V** 
+- 🟦 **Conector tipo Groove integrado** 
+- 🟦 **Memoria flash 4 MB** 
+- 🟦 **Antena 3D 2.4G** 
+- 🟦 **Puertos PIN G0, G25 / G36, G26, G32, G33** 
     </td>
   </tr>
   
