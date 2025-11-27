@@ -11,7 +11,7 @@
   <td colspan="2" style="text-align: center; padding: 0; margin: 0;">
     <h1 style="margin: 5px 0 0 0;"> ⚙️ M5StickC-Plus2 ⚙️</h1>
     <h2> Este dispositivo compacto integra un ESP32-PICO-V3-02 con módulos básicos de WIFI, Bluetooth, IR, RF, RFID, NRF24, FM y Scripts Ejecutables.</h2>
-    <h2> Todo ésto en conjunto le convierte en un Kit de Desarrollo IOT fascinante.</h2>
+    <h3> Todo ésto en conjunto le convierte en un Kit de Desarrollo IOT fascinante.</h3>
     <div style="display: inline-block; margin: 0; padding: 0;">
       <img 
         src="https://github.com/user-attachments/assets/0ed07dd0-3e60-4009-a55c-9aa83ca68854"
