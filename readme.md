@@ -116,18 +116,18 @@
     <td style="padding-left: 20px;">
       <h3>⤵Interior del M5StickC⤵</h3>
      Aquí dentro es donde está toda la magia, donde están todos los modulos:
-<p>- 📡 **Controlador: ESP32 240 MHz de doble núcleo, 600 DMIPS, 520 KB de SRAM, Wi-Fi** </p>
-<p>- 📶 **IMU MPU6886 de 6 ejes integrado** </p>
-<p>- 🟦 **Transmisor de infrarrojos integrado** </p>
-<p>- 🟦 **Micrófono SPM1423 integrado y Zumbador pasivo integrado** </p>
-<p>- 🟦 **Reloj de tiempo real BM8563 integrado** </p>
-<p>- 🟦 **Pulsadores, LEDs y diodos integrados** </p>
-<p>- 🟦 **Pantalla LCD 1,14 pulgadas, 135 * 240 colorido TFT LCD, ST7789v2 Integrada** </p>
-<p>- 🟦 **Batería Lipo integrada 200mAh a 3,7 V** </p>
-<p>- 🟦 **Conector tipo Groove integrado** </p>
-<p>- 🟦 **Memoria flash 4 MB** </p>
-<p>- 🟦 **Antena 3D 2.4G** </p>
-<p>- 🟦 **Puertos PIN G0, G25 / G36, G26, G32, G33** </p>
+<p>- 📡 Controlador: ESP32 240 MHz de doble núcleo, 600 DMIPS, 520 KB de SRAM, Wi-Fi </p>
+<p>- 📶 IMU MPU6886 de 6 ejes integrado </p>
+<p>- 🎮 Transmisor de infrarrojos integrado </p>
+<p>- 🎤 Micrófono SPM1423 integrado y Zumbador pasivo integrado </p>
+<p>- ⏳ Reloj de tiempo real BM8563 integrado </p>
+<p>- 🖲️ Pulsadores, LEDs y diodos integrados </p>
+<p>- 📱 Pantalla LCD 1,14 pulgadas, 135 * 240 colorido TFT LCD, ST7789v2 Integrada </p>
+<p>- 🔋 Batería Lipo integrada 200mAh a 3,7 V </p>
+<p>- 🔌 Conector tipo Groove integrado </p>
+<p>- 💾 Memoria flash 4 MB </p>
+<p>- 🗼 Antena 3D 2.4G </p>
+<p>- ⚓ Puertos PIN G0, G25 / G36, G26, G32, G33 </p>
     </td>
   </tr>
   
