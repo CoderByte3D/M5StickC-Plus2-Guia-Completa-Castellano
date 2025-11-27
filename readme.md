@@ -26,18 +26,6 @@
   </td>
 </tr>
 
-  <tr>
-    <td>
-         <img src="https://github.com/user-attachments/assets/97862fe6-a9d0-4725-b9fe-d3d0144f1149" style="max-width: 100%; height: auto;">
-    </td>
-    <td style="padding-left: 20px;">
-      <h3>🖲️Frontal del M5Stick🖲️</h3>
-      En su frontal, cuenta con la pantalla LCD de 1.14 pulgadas donde correrá el entorno visual del firmware que instalemos, debajo,  el botón M5 (BtnA), botón para simplemente moverte por el sistema, su función es (Aceptar, Siguiente).
-    </td>
-  </tr>
-
-
-
   <!-- FILA 1 -->
   <tr>
     <td>
@@ -114,7 +102,7 @@
   </tr>
 </table>
   
-  <!-- TABLA PARA INTERIOR -->
+  <!-- TABLA PARA EL INTERIOR DEL M5STICK -->
 <table>
   <tr>
     <td>
@@ -141,10 +129,52 @@
 <p><h3>- ⚓ Puertos PIN G0, G25 / G36, G26, G32, G33 </h3></p>
     </td>
   </tr>
+
+
+
+
+
+   <tr>
+    <td>
+      <img 
+        src="https://github.com/user-attachments/assets/9fa1b0c6-d64b-404f-9dba-16012a0e3e47"
+        width="440"
+        style="border-radius: 20px;"
+      />
+<td style="padding-left: 20px; text-align: left;">
+
+  <h2>⤵ Interior del M5StickC ⤵</h2>
+
+  <p>
+    Aquí dentro es donde está toda la magia, donde están todos los módulos:
+  </p>
+
+  <ul>
+    <li><strong>📡 Controlador:</strong> ESP32 240 MHz de doble núcleo, 600 DMIPS, 520 KB de SRAM, Wi-Fi</li>
+    <li><strong>📶 IMU:</strong> MPU6886 de 6 ejes integrado</li>
+    <li><strong>🎮 IR:</strong> Transmisor de infrarrojos integrado</li>
+    <li><strong>🎤 Audio:</strong> Micrófono SPM1423 + zumbador pasivo</li>
+    <li><strong>⏳ RTC:</strong> Reloj de tiempo real BM8563</li>
+    <li><strong>🖲️ Inputs:</strong> Pulsadores, LEDs y diodos integrados</li>
+    <li><strong>📱 Pantalla:</strong> LCD 1,14”, 135×240 TFT (ST7789v2)</li>
+    <li><strong>🔋 Batería:</strong> Li-Po 200 mAh · 3,7 V</li>
+    <li><strong>🔌 Conector:</strong> Tipo Grove integrado</li>
+    <li><strong>💾 Flash:</strong> 4 MB</li>
+    <li><strong>🗼 Antena:</strong> 3D 2.4G</li>
+    <li><strong>⚓ Pines:</strong> G0, G25/G36, G26, G32, G33</li>
+  </ul>
+  </tr>
+  
   
 </table>
 
 
+
+
+
+
+
+</td>
 <!-- SOFTWARE BASE DE M5STICK -->
 
 ## 🔌 FIRMWARE QUE VIENE DE SERIE EN EL M5STICKC PLUS2 🔌
