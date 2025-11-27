@@ -101,7 +101,10 @@
       Incluye el botón (BtnB) el cual es utilizado para movernos por el sistema.
     </td>
   </tr>
-  <!-- FILA 6 -->
+</table>
+  
+  <!-- TABLA PARA INTERIOR -->
+<table>
   <tr>
     <td>
       <img 
