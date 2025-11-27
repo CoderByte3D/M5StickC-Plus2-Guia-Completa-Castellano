@@ -107,16 +107,16 @@
 
 
 <!-- SOFTWARE BASE DE M5STICK -->
-<div>
-## 🔌Firmware que viene de serie en el M5StickC Plus 2🔌
+
+## 🔌 Firmware que viene de serie en el M5StickC Plus 2 🔌
 
 - 📡 **Giroscopio** (comunicación inalámbrica)  
 - 📶 **IR** (control y lectura infrarroja)  
 - 🟦 **RFID** (lectura de tarjetas)  
-</div>
+
 <!-- MODULOS EXTRAS ¿¿DEJAR PARA OTRO REPOSITORIO?? -->
 
-## 🔌 Módulos que elevan su potencial
+ 🔌 Módulos que elevan su potencial
 
 Si además le añades módulos externos como:
 
