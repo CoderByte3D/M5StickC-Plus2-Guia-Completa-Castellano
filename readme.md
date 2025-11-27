@@ -108,7 +108,7 @@
 
 <!-- SOFTWARE BASE DE M5STICK -->
 
-## 🔌 Firmware que viene de serie en el M5StickC Plus 2 🔌
+## 🔌 FIRMWARE QUE VIENE DE SERIE EN EL M5STICKC PLUS2 🔌
 Nuestra pequeña herramienta viene ya con un firmware pre-instalado de fábrica, el cual es un firmware demo (no pensado como firmware final) se instala para la demostración y para que el aparato tenga algo instalado, que luego le cambiaremos (más adelante en este mismo repositorio lo mencionaré).
 Éste firmware tiene opciones básicas, como:
 - 🧭 **Giroscopio** (Comprueba la calibración del M5.)
@@ -125,6 +125,18 @@ Nuestra pequeña herramienta viene ya con un firmware pre-instalado de fábrica,
 
 - ᛒ **Modulo Bluetooth** (Modulo bluetooth el cual muestra si tenemos el Bluetooth activo o no, e información de nuestro dispositivo.)
   
+
+
+<!-- SOFTWARE M5BURNER PARA FLASHEAR M5 -->
+
+## 👨‍💻 SOFTWARE M5BURNER PARA FLASHEAR LOS DISPOSITIVOS M5STICKC 👨‍💻
+
+Para instalarle otros Firmwares de la comunidad a nuestro dispositivo M5StickC Plus 2 necesitamos el programa M5Burner, que la misma empresa M5 nos lo facilita en su pagina web:
+https://docs.m5stack.com/en/uiflow/m5burner/intro
+
+<a href="https://docs.m5stack.com/en/uiflow/m5burner/intro"> <img src="https://img.shields.io/badge/Download-Now-green?style=for-the-badge"> </a>
+- 📡 **NRF24** (comunicación inalámbrica)  
+
 
 <!-- MODULOS EXTRAS ¿¿DEJAR PARA OTRO REPOSITORIO?? -->
 
