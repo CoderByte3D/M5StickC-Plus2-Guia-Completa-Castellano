@@ -150,6 +150,15 @@ Nuestra pequeña herramienta viene ya con un firmware pre-instalado de fábrica,
 
 - ᛒ **Modulo Bluetooth** (Modulo bluetooth el cual muestra si tenemos el Bluetooth activo o no, e información de nuestro dispositivo.)
   
+<ul style="text-align: left;">
+  <li>🧭 <strong>Giroscopio:</strong> Comprueba la calibración del M5.</li>
+  <li>🌈 <strong>Color:</strong> Demostración y calibración de la paleta de colores que utiliza el sistema.</li>
+  <li>🌐 <strong>WiFi Scan:</strong> Un simple sniffer WiFi que escanea los APs e información alrededor.</li>
+  <li>🕓 <strong>Clock:</strong> Simple reloj digital.</li>
+  <li>🎮 <strong>IR Send:</strong> Módulo de infrarrojos que envía pulsos en el canal que elijas.</li>
+  <li>🗣 <strong>Detector de sonido:</strong> Módulo que detecta sonido mediante el micrófono incorporado.</li>
+  <li>ᛒ <strong>Módulo Bluetooth:</strong> Muestra si el Bluetooth está activo y muestra información del dispositivo.</li>
+</ul>
 
 
 <!-- SOFTWARE M5BURNER PARA FLASHEAR M5 -->
